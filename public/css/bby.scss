@@ -32,3 +32,18 @@ ul, h1, h2, h3, p{
         }
     }
 }
+#content{
+    padding-top: 100px;
+    .event{
+        background-color: orange;
+
+    }
+    .membershop{
+        background-color: aquamarine;
+
+    }
+    .promotion{
+        background-color: brown;
+
+    }
+}

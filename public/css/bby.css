@@ -24,3 +24,16 @@ ul, h1, h2, h3, p {
   background-position: -369px -139px;
   transform: scale(0.85);
 }
+
+#content {
+  padding-top: 100px;
+}
+#content .event {
+  background-color: orange;
+}
+#content .membershop {
+  background-color: aquamarine;
+}
+#content .promotion {
+  background-color: brown;
+}

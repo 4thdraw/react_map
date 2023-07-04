@@ -9,7 +9,7 @@ export default function Content(mother) {
 
     return (
         <section id={mother.cid}>
-           <Banner></Banner>
+           <Banner conid="banner"></Banner>
            <Portfolio></Portfolio> 
            <Interview></Interview>
            <Contact></Contact>

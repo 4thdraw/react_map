@@ -5,7 +5,7 @@ import Content from './layout/Content'
 export default function App(props) {  
     return (
         <>
-          <Hd scrollcls="scroll" action={false}></Hd>          
+          <Hd scrollcls="scroll" action={true}></Hd>          
           <Content cid="content"></Content>
           <Ft fid="ft"></Ft>
         </>
